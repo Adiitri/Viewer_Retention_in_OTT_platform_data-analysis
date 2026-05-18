@@ -1,5 +1,4 @@
-# Viewer_Retention_in_OTT_platform_-data-analysis
-# 🎬 OTT Viewer Drop-Off & Retention Risk Dataset (v1.0)
+# 🎬 OTT Viewer Drop-Off & Retention Risk Dataset 
 
 ## 📌 Overview
 
@@ -103,17 +102,10 @@ No real user data is included.
 
 ---
 
-## 📜 License & Attribution
-
-* TMDB data used in accordance with TMDB API terms
-* Dataset intended for **educational and research purposes only**
-
----
-
 ## ⭐ Final Note
 
 This dataset is designed to encourage **analysis, modeling, and experimentation**, not just exploration.
 
-If you create notebooks or models using it, feel free to share them with the community.
+The data analysis was part of Winter Consulting bootcamp 2025 by Consulting & Analytics Club, IIT Guwahati 
 
 ---
